@@ -1,0 +1,1 @@
+ /Users/cristianobonetti/Downloads/STACKFOOD\ 7.0\ -\ SANDER\ CODE\ 2/applogista/.dart_tool/flutter_build/d83d1299ed08d8e5d4372e8f74076e58/native_assets.yaml: 
